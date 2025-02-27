@@ -74,7 +74,7 @@ Consultation et gestion des utilisateurs avec option "Voir profile" (affichage d
 Gestion des commandes, modification du statut et suppression de commandes via AJAX.
 
 Suppression Automatique d'Historiques :
-Un endpoint API permet de supprimer automatiquement les commandes de plus de 6 mois (exécuté via une tâche CRON).
+Un endpoint API permet de supprimer automatiquement les commandes de plus de 6 mois .
 
 Interactivité et AJAX
 AJAX pour le Panier :
